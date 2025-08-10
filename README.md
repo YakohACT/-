@@ -18,6 +18,8 @@
 <br> 分かりやすくするためにeliminateメソッドでソートしています.
 <br> 実行結果も載せています.配列はランダムのため実行するたびに変わります.
 <br> コメントに深い意味はないので気にしないでください.
+<br> コラボラトリのURLも置いときます.実行したいときにどうぞ.
+<br> https://colab.research.google.com/drive/11M_SPHo7pokSGLRwsRN7pDtk34UQyfBK#scrollTo=Sejys9kXQFvy
 
 # さいごに
 異議がある方は身分証の提出ととものお申し出ください ~~粛清します~~
